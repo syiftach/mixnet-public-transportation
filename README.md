@@ -4,7 +4,7 @@
 
 ## Usage
 
-run `python3 $ main.py` from root directory of the project, with optional flags.
+run `$ python3 main.py` from root directory of the project, with optional flags.
 
 ### Flags
 
