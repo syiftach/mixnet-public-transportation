@@ -1,4 +1,4 @@
-# Final project in course:<br />Advanced Topics in Online Privacy and Cyber-security (67515) <br /> Anonymizing Public Transportation Rides Information
+# Anonymizing Public Transportation Rides Information
 
 ##### Submitted by: Yiftach Sabag
 
